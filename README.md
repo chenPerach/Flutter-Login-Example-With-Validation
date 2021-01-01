@@ -11,9 +11,9 @@ It's important to remember that this example project is pretty complex for a fir
 - [simple login page with validation example video](https://www.youtube.com/watch?v=RlBfFswZ94U&ab_channel=MTECHVIRAL)
 
 ## Importent code stuff
-* [CustomFormEditText](./lib/login_form.dart)
+* [CustomFormEditText](./lib/login_form.dart#L142)
 * [main page](./lib/main.dart)
-* [Form Stateful widget](./lib/login_form.dart)
+* [Form Stateful widget](./lib/login_form.dart#L9)
 
 
 
